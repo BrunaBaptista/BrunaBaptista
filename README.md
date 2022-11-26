@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é Bruna
+- 👀 Gostaria de me tornar dev Java
+- 🌱 Atualmente curso Sistemas para Internet na faculdade Descomplica UniAmerica
